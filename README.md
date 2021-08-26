@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ezgi</h1>
 <h3 align="center">I'm Computer Engineering student at Istanbul University-Cerrahpasa</h3>
 
